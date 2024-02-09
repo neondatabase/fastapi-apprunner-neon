@@ -12,7 +12,7 @@ This repository hosts a FastAPI application leveraging Neon Serverless Postgres,
 
 - Python 3.11
 - AWS Account
-- A Neon account for Serverless Postgres
+- A [Neon account for Serverless Postgres](https://neon.tech/)
 - Git
 - [Poetry](https://python-poetry.org/) for Python dependency management
 

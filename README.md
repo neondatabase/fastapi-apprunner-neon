@@ -24,7 +24,7 @@ Clone the repository to your local machine and navigate into the project directo
 
 ```bash
 git clone https://github.com/neondatabase/fastapi-apprunner-neon
-cd your-repository-name
+cd fastapi-apprunner-neon
 ```
 
 ### 2. Setup Your Python Environment with Poetry
